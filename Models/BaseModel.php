@@ -1,3 +1,4 @@
+
 <?php 
 class BaseModel extends Database{
 	private $connect;
